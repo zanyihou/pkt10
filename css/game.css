@@ -99,6 +99,7 @@
 
 .rewardBox { padding:90px 25px 65px; width: 270px; height: 265px; overflow: hidden; background: url(../img/resultbg.png) no-repeat; background-size: 100% 100%;}
 .rewardBoxCnt { float: left; width: 135px;}
+.rewardItem { height: 53px;}
 .rewardItem p { float: right; display: none; font-size: 13px; width: 65px;color: #fff; text-align: center; line-height:49px;}
 .rewardBoxCnt span { display: inline-block; opacity: 0;  width: 70px; height: 49px;overflow: hidden;}
 .rewardBoxCnt span.cho { opacity: 1;}
